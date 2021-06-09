@@ -68,7 +68,7 @@ async def help(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Here Is Cmd Of Nø͢͢͢bΐ ꪎ M͢͢͢นຮic !
 ╔━━━━━━━━⊰✦⊱━━━━━━━━╗
-/ply  - play audio or link you requested
+/aud  - play audio or link you requested
 /play  - play song you requested
 /dplay  - play song you requested via deezer
 /splay  - play song you requested via jio saavn
