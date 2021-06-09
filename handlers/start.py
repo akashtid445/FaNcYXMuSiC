@@ -28,7 +28,7 @@ from config import BOT_NAME as bn
 async def start(_, message: Message):
      await message.reply_sticker("CAACAgEAAxkBAAEKSWJgwGQMxYa9he0KQnk0DQiRXs8lFAACTgIAAlEpDTkIb4MnCr3Ohx8E")
      await message.reply_text(
-        f"""➼ Helloow 👋 {message.from_user.first_name}! I can play music in voice chats of Telegeam Groups. I have a lot of cool feature that will amaze you!\n\n➤ Do you want me to play music in your Telegram groups'voice chats? Please click the " cσммαη∂s " button below to know how you can use me.\n\n➤ Use the buttons below to know more about me 🖤\n\n➤ Contact my owner [देसी ΝϴᏴᏆͲᎪ](https://t.me/DesiNobita)""",
+        f"""⇝ 𝐻𝑒𝑙𝑙𝑜 {message.from_user.first_name}  𝙄 𝙘𝙖𝙣 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙞𝙣 𝙫𝙤𝙞𝙘𝙚 𝙘𝙝𝙖𝙩𝙨 𝙤𝙛 𝙏𝙚𝙡𝙚𝙜𝙚𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨. 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙡𝙤𝙩 𝙤𝙛 𝙘𝙤𝙤𝙡 𝙛𝙚𝙖𝙩𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙬𝙞𝙡𝙡 𝙖𝙢𝙖𝙯𝙚 𝙮𝙤𝙪 ☆.\n\n⇝ 𝘿𝙤 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙢𝙚 𝙩𝙤 𝙥𝙡𝙖𝙮 𝙢𝙪𝙨𝙞𝙘 𝙞𝙣 𝙮𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙜𝙧𝙤𝙪𝙥𝙨'𝙫𝙤𝙞𝙘𝙚 𝙘𝙝𝙖𝙩𝙨? 𝙋𝙡𝙚𝙖𝙨𝙚 𝙘𝙡𝙞𝙘𝙠 𝙩𝙝𝙚 "Ƈօʍʍɑղժs" 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙝𝙤𝙬 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙪𝙨𝙚 𝙢𝙚.\n\n⇝ 𝙐𝙨𝙚 𝙩𝙝𝙚 𝙗𝙪𝙩𝙩𝙤𝙣𝙨 𝙗𝙚𝙡𝙤𝙬 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙢𝙤𝙧𝙚 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 💔.\n\n⇝ 𝐎𝐑 𝐄𝐋𝐒𝐄 𝐇𝐀𝐕𝐈𝐍𝐆 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 देसी ΝϴᏴᏆͲᎪ""",
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
