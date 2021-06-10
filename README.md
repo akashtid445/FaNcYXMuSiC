@@ -5,7 +5,7 @@
 # Available on telegram as @NoBiTa_vC_pLaYeR
 
 <p align="center">
-  <img src="https://telegra.ph/file/51d2c0f3a0f71579a1ee8.jpg">
+  <img src="https://telegra.ph/file/6303e41d3f81c628ea096.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
