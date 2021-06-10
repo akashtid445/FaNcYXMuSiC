@@ -58,9 +58,6 @@ Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string se
 
 </details>
 
-<details>
 
-<summary> • 🔥CREDITS🔥 • </summary>
-<h2 align="center"> <a href="https://github.com/xxMUNNAxx">🔥 MUNNA 🔥</a></h2><h2 align="center"> <a href="https://github.com/dineshpamnani860">🔥 Lucifer 🔥</a></h2><h2 align="center"> <a href="https://github.com/Omiiiiii143">🔥 Smokie 🔥</a></h2><h2 align="center"> <a href="https://github.com/Anubis-Devil">🔥 Devil 🔥</a></h2><h2 align="center"> <a href="https://github.com/GodkillerOp">🔥 GodKiller 🔥</a></h2>
 
-</details>
+
